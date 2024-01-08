@@ -38,3 +38,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## project reference
 
 <a>https://www.youtube.com/watch?v=pUNSHPyVryU</a>
+
+## Make a request from API
+
+<a>https://rapidapi.com/apininjas/api/cars-by-api-ninjas</a>
